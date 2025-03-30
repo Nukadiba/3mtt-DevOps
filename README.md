@@ -9,8 +9,12 @@
 
 ![](./img/Git.png)
 
+## 3. Ubuntu Installation on VirtualBox
+### 3.1 Virtual Box Dashboard with Ubuntu running
 
-## 3. Ubuntu
+![](./img/Virtualbox_Dashboard.png)
+
+### 3.2 Ubuntu Dashboard on Virtualbox
 
 ![](./img/Ubuntu.png)
 
